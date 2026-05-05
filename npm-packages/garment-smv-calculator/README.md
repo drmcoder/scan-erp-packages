@@ -57,7 +57,7 @@ Read the complete guide: [SAM & SMV Formula in Garment Industry](https://scanerp
 ## Used By
 
 - [Scan ERP](https://scanerp.pro/) — QR-based ERP for CMT garment factories
-- [cmt-factory-toolkit](https://github.com/drmcoder/cmt-factory-toolkit) — Open-source CMT factory utilities
+- [scan-erp-packages](https://github.com/drmcoder/scan-erp-packages) — Open-source CMT factory utilities
 
 ## License
 

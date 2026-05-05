@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "garment-piece-rate"
-version = "1.0.1"
+version = "1.0.2"
 description = "Piece-rate wage calculator for CMT garment factories. Formula: pieces x rate x skill multiplier + machine bonus + efficiency bonus - quality penalty. Built and used in production by Scan ERP."
 readme = "README.md"
 requires-python = ">=3.7"
@@ -23,5 +23,5 @@ classifiers = [
 [project.urls]
 Homepage = "https://scanerp.pro/blog/piece-rate-payment-calculation-garment-factory.html"
 Documentation = "https://drmcoder.github.io/scan-erp-docs/calculators.html"
-Repository = "https://github.com/drmcoder/cmt-factory-toolkit"
-"Bug Tracker" = "https://github.com/drmcoder/cmt-factory-toolkit/issues"
+Repository = "https://github.com/drmcoder/scan-erp-packages"
+"Bug Tracker" = "https://github.com/drmcoder/scan-erp-packages/issues"

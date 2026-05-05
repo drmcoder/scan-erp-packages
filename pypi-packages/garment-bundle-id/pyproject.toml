@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "garment-bundle-id"
-version = "1.0.1"
+version = "1.0.2"
 description = "Standard bundle ID generator and parser for QR-based garment factory production tracking. Format: STYLE-LOT-COLOR-SIZE-BUNDLE#-COMPONENT. Built and used in production by Scan ERP."
 readme = "README.md"
 requires-python = ">=3.7"
@@ -23,5 +23,5 @@ classifiers = [
 [project.urls]
 Homepage = "https://scanerp.pro/blog/qr-code-production-tracking-garment-factory.html"
 Documentation = "https://drmcoder.github.io/scan-erp-docs/calculators.html"
-Repository = "https://github.com/drmcoder/cmt-factory-toolkit"
-"Bug Tracker" = "https://github.com/drmcoder/cmt-factory-toolkit/issues"
+Repository = "https://github.com/drmcoder/scan-erp-packages"
+"Bug Tracker" = "https://github.com/drmcoder/scan-erp-packages/issues"
