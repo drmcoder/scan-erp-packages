@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "garment-bundle-id"
+version = "1.0.1"
+description = "Standard bundle ID generator and parser for QR-based garment factory production tracking. Format: STYLE-LOT-COLOR-SIZE-BUNDLE#-COMPONENT. Built and used in production by Scan ERP."
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
+authors = [{name = "Santosh Rijal", email = "santoshrijal41@gmail.com"}]
+keywords = ["garment", "bundle-id", "bundle-tracking", "qr-code", "sewing", "apparel", "cmt-factory", "production-tracking", "manufacturing", "scan-erp"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Manufacturing",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Office/Business",
+]
+
+[project.urls]
+Homepage = "https://scanerp.pro/blog/qr-code-production-tracking-garment-factory.html"
+Documentation = "https://drmcoder.github.io/scan-erp-docs/calculators.html"
+Repository = "https://github.com/drmcoder/cmt-factory-toolkit"
+"Bug Tracker" = "https://github.com/drmcoder/cmt-factory-toolkit/issues"

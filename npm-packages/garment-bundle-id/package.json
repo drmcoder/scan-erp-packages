@@ -1,0 +1,36 @@
+{
+  "name": "garment-bundle-id",
+  "version": "1.0.1",
+  "description": "Standard bundle ID generator and parser for QR-based garment factory production tracking. Format: STYLE-LOT-COLOR-SIZE-BUNDLE#-COMPONENT. Built and used in production by Scan ERP.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "garment",
+    "bundle-id",
+    "bundle-tracking",
+    "qr-code",
+    "garment-industry",
+    "sewing",
+    "apparel",
+    "cmt-factory",
+    "production-tracking",
+    "manufacturing",
+    "scan-erp"
+  ],
+  "homepage": "https://scanerp.pro/blog/qr-code-production-tracking-garment-factory.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drmcoder/cmt-factory-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drmcoder/cmt-factory-toolkit/issues"
+  },
+  "author": {
+    "name": "Santosh Rijal",
+    "url": "https://scanerp.pro"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}

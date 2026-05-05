@@ -1,0 +1,39 @@
+{
+  "name": "garment-smv-calculator",
+  "version": "1.0.1",
+  "description": "SMV (Standard Minute Value) calculator for garment industry sewing operations. Formula: SMV = Basic Time × (1 + Allowance%). Built and used in production by Scan ERP.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "garment",
+    "smv",
+    "sam",
+    "standard-minute-value",
+    "garment-industry",
+    "sewing",
+    "apparel",
+    "manufacturing",
+    "cmt-factory",
+    "westinghouse-rating",
+    "production-tracking",
+    "stopwatch-method",
+    "time-study",
+    "scan-erp"
+  ],
+  "homepage": "https://scanerp.pro/blog/sam-smv-calculation-garment-industry.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drmcoder/cmt-factory-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drmcoder/cmt-factory-toolkit/issues"
+  },
+  "author": {
+    "name": "Santosh Rijal",
+    "url": "https://scanerp.pro"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}

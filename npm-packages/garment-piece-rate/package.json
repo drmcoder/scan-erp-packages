@@ -1,0 +1,36 @@
+{
+  "name": "garment-piece-rate",
+  "version": "1.0.1",
+  "description": "Piece-rate wage calculator for CMT garment factories. Formula: pieces × rate × skill multiplier + machine bonus + efficiency bonus − quality penalty. Built and used in production by Scan ERP.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "garment",
+    "piece-rate",
+    "wage-calculation",
+    "operator-payment",
+    "garment-industry",
+    "sewing",
+    "apparel",
+    "cmt-factory",
+    "manufacturing",
+    "payroll",
+    "scan-erp"
+  ],
+  "homepage": "https://scanerp.pro/blog/piece-rate-payment-calculation-garment-factory.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drmcoder/cmt-factory-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/drmcoder/cmt-factory-toolkit/issues"
+  },
+  "author": {
+    "name": "Santosh Rijal",
+    "url": "https://scanerp.pro"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}

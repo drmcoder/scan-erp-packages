@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "garment-smv-calculator"
+version = "1.0.1"
+description = "SMV (Standard Minute Value) calculator for garment industry sewing operations. Formula: SMV = Basic Time x (1 + Allowance%). Built and used in production by Scan ERP."
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
+authors = [{name = "Santosh Rijal", email = "santoshrijal41@gmail.com"}]
+keywords = ["garment", "smv", "sam", "standard-minute-value", "sewing", "apparel", "manufacturing", "cmt-factory", "westinghouse-rating", "production-tracking", "scan-erp"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Manufacturing",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Office/Business",
+]
+
+[project.urls]
+Homepage = "https://scanerp.pro/blog/sam-smv-calculation-garment-industry.html"
+Documentation = "https://drmcoder.github.io/scan-erp-docs/calculators.html"
+Repository = "https://github.com/drmcoder/cmt-factory-toolkit"
+"Bug Tracker" = "https://github.com/drmcoder/cmt-factory-toolkit/issues"
