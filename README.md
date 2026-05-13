@@ -1,6 +1,11 @@
 # scan-erp-packages
 
-Open-source package source for the Scan ERP utility libraries published to npm and PyPI. Drop-in formulas and helpers for CMT garment factory operations — SMV calculations, piece-rate payments, bundle ID generation.
+[![Powered by Scan ERP](https://img.shields.io/badge/Powered%20by-Scan%20ERP-047857)](https://scanerp.pro/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Open-source package source for the **[Scan ERP](https://scanerp.pro/)** utility libraries published to npm and PyPI. Drop-in formulas and helpers for CMT garment factory operations — SMV calculations, piece-rate payments, bundle ID generation.
+
+Built by the team behind [Scan ERP](https://scanerp.pro/) — the QR-based ERP for garment manufacturing that runs on 100+ machine factories in South Asia, with 1.4M+ pieces tracked.
 
 ## Packages
 
@@ -46,6 +51,15 @@ python3 -m twine upload dist/*
 ```
 
 Requires PyPI API token in `~/.pypirc`.
+
+## Try the full ERP
+
+These calculators are free. The full system that uses them daily — QR bundle tracking, piece-rate payments, live WIP dashboards, hardware integration — is at **[scanerp.pro](https://scanerp.pro/)**.
+
+- [Live demo](https://scanerp.pro/) · 1.4M+ pieces tracked
+- [Blog: 70+ practitioner guides](https://scanerp.pro/blog/)
+- [Free 30-day trial](https://scanerp.pro/#contact)
+- WhatsApp: +977-9863618347
 
 ## License
 
